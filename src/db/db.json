@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "17e41b7b-2af2-40b3-841c-015e35986032",
+    "name": "Bruce Prosacco",
+    "phone": "457-622-1836",
+    "email": "Cristian.Fritsch63@yahoo.com",
+    "job": "Senior Metrics Director"
+  },
+  {
+    "id": "bdd4361d-8533-4d07-9cc1-5ebc60b4fbfa",
+    "name": "Raymond Bartoletti",
+    "phone": "325-687-6692 x0182",
+    "email": "Mertie.Hermiston69@yahoo.com",
+    "job": "Dynamic Group Developer"
+  },
+  {
+    "id": "9e0b3aa5-8609-4c99-8b3e-14e9cd40b80a",
+    "name": "Debbie Cormier",
+    "phone": "(449) 885-8031",
+    "email": "Otha3@hotmail.com",
+    "job": "Global Response Assistant"
+  },
+  {
+    "id": "6b97df04-a24f-4436-89c6-754bf2ac67c1",
+    "name": "Lowell Gerlach",
+    "phone": "355-387-7964",
+    "email": "Alverta_Morissette@hotmail.com",
+    "job": "Internal Division Supervisor"
+  },
+  {
+    "id": "d443161e-2598-4a2a-a3bf-a63e0cfccda8",
+    "name": "Shawna Wilkinson",
+    "phone": "1-283-387-2965 x95259",
+    "email": "Magdalen.Botsford@hotmail.com",
+    "job": "Central Marketing Analyst"
+  }
+]
